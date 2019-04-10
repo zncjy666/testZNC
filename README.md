@@ -1,0 +1,2 @@
+# testZNC
+test znc code
